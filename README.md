@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/devculture4you">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Dev Culture" /></a>
-</p>
-
 
 <div align="center">
   <a href="https://www.youtube.com/c/devculture4you" target="_blank">
