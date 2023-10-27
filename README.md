@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="180" height="44" src="https://devculture4you.github.io/assets/images/devlogo.png">
+</p>
 
 <div align="center">
   <a href="https://www.youtube.com/c/devculture4you" target="_blank">
